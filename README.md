@@ -90,7 +90,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🤖 Ship my first autonomous AI agent
 - [ ] 🔗 Build a real-world agentic AI workflow
