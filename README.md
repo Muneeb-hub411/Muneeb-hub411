@@ -65,7 +65,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=js,python,ts,cpp,cs" />
   </a>
 </p>
 
