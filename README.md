@@ -4,31 +4,32 @@
 
 # 👋 Hi, I'm Muneeb Saleem
 
-### `Ex MERN Dev` → `AI Automation Explorer` → `Agentic AI Builder` 🤖
+### `MERN Stack Developer` ⚛️ | `Tech Enthusiast` 🚀 | `AI Automation Explorer` 🤖
 
-> _"I didn't leave web dev. I just leveled up to teaching robots to do it."_
+> _"Building robust web applications while exploring the frontiers of Agentic AI. Always learning, open to guidance and new challenges!"_
 
 </div>
 
 ---
 
-## 🗺️ The Journey
+## 🗺️ Current Focus
 
-```
-🌱 WordPress            → "I can build websites!"
-⚛️  MERN Stack          → "I can build REAL websites!"
-🤖  AI Automation       → "Wait... can AI build websites for me?!"
-🧠  Agentic AI (now)    → 👀 ...yes.
+```text
+⚛️  MERN Stack          → Crafting scalable and dynamic web applications.
+🌱  WordPress           → Building flexible content management solutions.
+🤖  AI Automation       → Exploring LLMs, Agents, and workflow automation.
+📚  Continuous Learner  → Open to guidance, collaboration, and growing every day.
 ```
 
 ---
 
 ## 🔭 What I'm Up To
 
-- 🤖 **Transitioning** into AI Automation & Agentic AI systems
-- 🛠️ **Building** projects across my repos — [check them out!](https://github.com/Muneeb-hub411?tab=repositories)
-- 🧠 **Learning** LangChain, CrewAI, MCP, and LLM tool use
-- 💬 **Ask me about** JS, Express, React, Node, MongoDB, Software Architecture — or anything AI 🤖
+- 💻 **Developing** full-stack applications with the MERN stack and WordPress.
+- 🤖 **Exploring** AI Automation, Agentic workflows, and LLM integrations.
+- 🧠 **Learning** new tools like LangChain and CrewAI to level up my dev skills.
+- 🛠️ **Building** cool projects — [check them out!](https://github.com/Muneeb-hub411?tab=repositories)
+- 💬 **Ask me about** JS, React, Node, MongoDB, WP — or my AI learning journey!
 - 📫 **Reach me at** muneebsaleem402@gmail.com
 - ⚡ **Fun fact** I think I'm funny _(the jury is still out)_
 
